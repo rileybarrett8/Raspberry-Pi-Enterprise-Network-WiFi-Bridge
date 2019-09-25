@@ -1,6 +1,6 @@
 # Raspberry-Pi-Enterprise-WiFi-Bridge
 
-Senior Project for California Polytechnin State University, Computer Engineering
+Senior Project for California Polytechnic State University, Computer Engineering
 
 By: Dylan Halland & Riley Barrett
 
